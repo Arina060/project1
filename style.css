@@ -1,6 +1,15 @@
-table,td,th,tr{
-    border:solid 1.5px
+.red{
+    color: red;
 }
-table{
-    width: 100%;
+.black{
+    color: black;
+}
+.green{
+    color: cyan;
+}
+.blue{
+    color: darkblue;
+}
+.pink{
+    color: darkorchid;
 }
