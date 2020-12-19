@@ -1,15 +1,5 @@
-.red{
-    color: red;
-}
-.black{
-    color: black;
-}
-.green{
-    color: cyan;
-}
-.blue{
-    color: darkblue;
-}
-.pink{
-    color: darkorchid;
+.g {
+    width: 1000px;
+    height: 500px;
+    background-color: orange;
 }
